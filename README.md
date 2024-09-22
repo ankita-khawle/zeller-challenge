@@ -2,6 +2,10 @@ Steps to run the code
 
 npm i
 npx tsx ./ankita_test.ts
+
+__________________________
+
+
 Scanning mechanism flow
 
 Add the products per the sku code one after another
